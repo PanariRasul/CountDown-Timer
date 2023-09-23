@@ -58,6 +58,7 @@ input{
     font-size: 100px;
     text-align: center;
     font-weight: 900;
+    cursor: not-allowed;
 }
 label{
     font-size: 30px;
